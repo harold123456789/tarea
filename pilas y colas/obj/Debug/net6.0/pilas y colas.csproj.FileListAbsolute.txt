@@ -1,0 +1,15 @@
+C:\Users\Harold\Desktop\pilas y colas\bin\Debug\net6.0\pilas y colas.exe
+C:\Users\Harold\Desktop\pilas y colas\bin\Debug\net6.0\pilas y colas.deps.json
+C:\Users\Harold\Desktop\pilas y colas\bin\Debug\net6.0\pilas y colas.runtimeconfig.json
+C:\Users\Harold\Desktop\pilas y colas\bin\Debug\net6.0\pilas y colas.dll
+C:\Users\Harold\Desktop\pilas y colas\bin\Debug\net6.0\pilas y colas.pdb
+C:\Users\Harold\Desktop\pilas y colas\obj\Debug\net6.0\pilas y colas.csproj.AssemblyReference.cache
+C:\Users\Harold\Desktop\pilas y colas\obj\Debug\net6.0\pilas y colas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harold\Desktop\pilas y colas\obj\Debug\net6.0\pilas y colas.AssemblyInfoInputs.cache
+C:\Users\Harold\Desktop\pilas y colas\obj\Debug\net6.0\pilas y colas.AssemblyInfo.cs
+C:\Users\Harold\Desktop\pilas y colas\obj\Debug\net6.0\pilas y colas.csproj.CoreCompileInputs.cache
+C:\Users\Harold\Desktop\pilas y colas\obj\Debug\net6.0\pilas y colas.dll
+C:\Users\Harold\Desktop\pilas y colas\obj\Debug\net6.0\refint\pilas y colas.dll
+C:\Users\Harold\Desktop\pilas y colas\obj\Debug\net6.0\pilas y colas.pdb
+C:\Users\Harold\Desktop\pilas y colas\obj\Debug\net6.0\pilas y colas.genruntimeconfig.cache
+C:\Users\Harold\Desktop\pilas y colas\obj\Debug\net6.0\ref\pilas y colas.dll

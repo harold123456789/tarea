@@ -1,0 +1,4 @@
+class ListaLigada
+{
+    node head;
+}

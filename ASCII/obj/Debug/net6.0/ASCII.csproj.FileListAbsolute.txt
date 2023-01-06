@@ -1,0 +1,15 @@
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\bin\Debug\net6.0\ASCII.exe
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\bin\Debug\net6.0\ASCII.deps.json
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\bin\Debug\net6.0\ASCII.runtimeconfig.json
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\bin\Debug\net6.0\ASCII.dll
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\bin\Debug\net6.0\ASCII.pdb
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\obj\Debug\net6.0\ASCII.csproj.AssemblyReference.cache
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\obj\Debug\net6.0\ASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\obj\Debug\net6.0\ASCII.AssemblyInfoInputs.cache
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\obj\Debug\net6.0\ASCII.AssemblyInfo.cs
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\obj\Debug\net6.0\ASCII.csproj.CoreCompileInputs.cache
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\obj\Debug\net6.0\ASCII.dll
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\obj\Debug\net6.0\refint\ASCII.dll
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\obj\Debug\net6.0\ASCII.pdb
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\obj\Debug\net6.0\ASCII.genruntimeconfig.cache
+C:\Users\Harold\Desktop\Harold\trabajos\alex\ASCII\obj\Debug\net6.0\ref\ASCII.dll
